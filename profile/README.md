@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cortex Logo](./assets/images/cortex-logo.png)
+![Cortex Logo](https://github.com/Incubyte-AI-Platform/.github/blob/main/images/logo.png)
 
 **Automate Your RAG Development Lifecycle**
 
@@ -42,7 +42,7 @@ Cortex is an enterprise-grade AI platform that **automates the entire RAG (Retri
 
 The Data Collection Module automatically connects, authenticates, and continuously syncs data from your organization's diverse systems into a unified format that can be processed by AI.
 
-<img src="./assets/icons/data-collection.svg" alt="Data Collection" width="64" align="left"/>
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Collection.png" alt="Data Collection" width="64" align="left"/>
 
 **Pre-built connectors for your entire tech stack:**
 - **Productivity**: Gmail, Google Drive, Slack
@@ -68,7 +68,7 @@ The Data Collection Module automatically connects, authenticates, and continuous
 ### 🧠 **2. Data Embedding Module**
 *Make your data AI-ready automatically*
 
-<img src="./assets/icons/embedding.svg" alt="Data Embedding" width="64" align="left"/>
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Embedding%20and%20Storage.png" alt="Data Embedding" width="64" align="left"/>
 
 **Intelligent preprocessing and vectorization:**
 - **Smart Chunking**: Context-aware document segmentation
@@ -82,7 +82,7 @@ The Data Collection Module automatically connects, authenticates, and continuous
 ### 🎯 **3. RAG API Engine**
 *Retrieve the perfect answers, every time*
 
-<img src="./assets/icons/rag-api.svg" alt="RAG API" width="64" align="left"/>
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/RAG%20API.png" alt="RAG API" width="64" align="left"/>
 
 **Advanced retrieval with enterprise features:**
 - **Hybrid Search**: Combines semantic and keyword search
@@ -92,10 +92,6 @@ The Data Collection Module automatically connects, authenticates, and continuous
 
 
 ## ✨ **Why Organizations Choose Cortex**
-
-<div align="center">
-<img src="./assets/images/benefits-infographic.png" alt="Cortex Benefits" width="800"/>
-</div>
 
 ### 🏃‍♂️ **Speed to Market**
 - **Ready-made POCs**: Deploy in hours with pre-built templates
@@ -308,10 +304,6 @@ docker run --env-file .env data-collection-app
 
 ## 📈 **Monitoring & Analytics**
 
-<div align="center">
-<img src="./assets/images/monitoring-dashboard.png" alt="Cortex Monitoring Dashboard" width="800"/>
-</div>
-
 - **Real-time Metrics**: Query volume, response times, user satisfaction
 - **Usage Analytics**: Most searched topics, popular data sources, user patterns  
 - **Performance Monitoring**: System health, resource utilization, error rates
@@ -346,8 +338,6 @@ See the [LICENSE](./LICENSE) file for details.
 ---
 
 Built with ❤️ by the Cortex team and our amazing community contributors.
-
-
 
 ---
 
