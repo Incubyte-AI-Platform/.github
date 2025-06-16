@@ -9,7 +9,7 @@
 *Connect. Embed. Retrieve. Deploy.*
 
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](https://docs.cortex-ai.com) • [🎯 Use Cases](#-use-cases)
+[🚀 Quick Start](#-quick-start) • [🎯 Use Cases](#-use-cases)
 
 </div>
 
@@ -301,7 +301,7 @@ docker run --env-file .env data-collection-app
 | 🎤 **Voice Services** | [`cortex-voice`](./packages/voice) | [📖 Voice Docs](./packages/voice/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-voice/actions) |
 | 🔌 **Data Connectors** | [`cortex-connectors`](./packages/connectors) | [📖 Connectors Docs](./packages/connectors/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-connectors/actions) |
 | 🧠 **Embedding Engine** | [`cortex-embeddings`](./packages/embeddings) | [📖 Embeddings Docs](./packages/embeddings/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-embeddings/actions) |
-| 🏗️ **Infrastructure** | [`cortex-infrastructure`](./infrastructure) | [📖 DevOps Docs](./infrastructure/README.md) | [![Terraform](https://img.shields.io/badge/terraform-validated-purple.svg)](https://github.com/your-org/cortex-infrastructure) |
+| 🏗️ **ChatPackage** | [`cortex-infrastructure`](./infrastructure) | [📖 DevOps Docs](./infrastructure/README.md) | [![Terraform](https://img.shields.io/badge/terraform-validated-purple.svg)](https://github.com/your-org/cortex-infrastructure) |
 
 ---
 
