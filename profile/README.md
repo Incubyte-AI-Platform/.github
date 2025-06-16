@@ -292,7 +292,7 @@ docker run --env-file .env data-collection-app
 
 - To stop the execution you can do `CTRL+C` in the terminal. Or stop manually from the docker desktop app.
 ```bash
-
+```
 
 ## 📊 **Platform Components**
 
