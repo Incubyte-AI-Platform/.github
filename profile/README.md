@@ -339,7 +339,7 @@ docker run --env-file .env data-collection-app
 
 ## ⚖️ **License**
 
-See the [LICENSE](./LICENSE) file for details.
+See the [LICENSE](https://github.com/Incubyte-AI-Platform/.github/blob/main/LICENSE.md) file for details.
 
 ---
 
