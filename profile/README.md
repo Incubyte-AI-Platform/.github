@@ -30,7 +30,7 @@ Cortex is an enterprise-grade AI platform that **automates the entire RAG (Retri
 ## 🏗️ **Platform Architecture**
 
 <div align="center">
-<img src="./assets/diagrams/cortex-architecture-overview.png" alt="Cortex Architecture" width="900"/>
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Screenshot%202025-06-16%20at%204.14.48%20PM.png" alt="Cortex Architecture" width="900"/>
 </div>
 
 ---
