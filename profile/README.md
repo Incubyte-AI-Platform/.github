@@ -42,7 +42,9 @@ Cortex is an enterprise-grade AI platform that **automates the entire RAG (Retri
 
 The Data Collection Module automatically connects, authenticates, and continuously syncs data from your organization's diverse systems into a unified format that can be processed by AI.
 
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Collection.png" alt="Data Collection" width="64" align="left"/>
+<div align="center">
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Collection.png" alt="Data Collection" width="800"/>
+</div>
 
 **Pre-built connectors for your entire tech stack:**
 - **Productivity**: Gmail, Google Drive, Slack
@@ -68,7 +70,9 @@ The Data Collection Module automatically connects, authenticates, and continuous
 ### 🧠 **2. Data Embedding Module**
 *Make your data AI-ready automatically*
 
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Embedding%20and%20Storage.png" alt="Data Embedding" width="64" align="left"/>
+<div align="center">
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Embedding%20and%20Storage.png" alt="Data Embedding" width="800"/>
+</div>
 
 **Intelligent preprocessing and vectorization:**
 - **Smart Chunking**: Context-aware document segmentation
@@ -82,7 +86,9 @@ The Data Collection Module automatically connects, authenticates, and continuous
 ### 🎯 **3. RAG API Engine**
 *Retrieve the perfect answers, every time*
 
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/RAG%20API.png" alt="RAG API" width="64" align="left"/>
+<div align="center">
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/RAG%20API.png" alt="RAG API" width="800"/>
+</div>
 
 **Advanced retrieval with enterprise features:**
 - **Hybrid Search**: Combines semantic and keyword search
@@ -107,7 +113,7 @@ The Data Collection Module automatically connects, authenticates, and continuous
 - **Your Data**: Full control, zero data sharing, complete compliance
 
 ### 🛡️ **Enterprise-Ready**
-- **Security First**: SOC2, GDPR, HIPAA compliant
+- **Security First**: HIPAA compliant from day one
 - **Scalable Architecture**: Handle millions of queries per day
 - **24/7 Support**: Dedicated enterprise support team
 
