@@ -19,7 +19,7 @@
 
 Incubyte AI Platform is an enterprise-grade AI platform that **automates the entire RAG (Retrieval-Augmented Generation) development lifecycle**. Deploy custom AI solutions in hours, not months, with zero AI expertise required.
 
-> ** The Magic**: Connect your data sources → Make them RAG-ready → Deploy intelligent chat, voice & search interfaces
+Connect your data sources → Make them RAG-ready → Deploy intelligent chat, voice & search interfaces
 
 <div align="center">
 <img src="./assets/images/Incubyte AI Platform-demo.gif" alt="Incubyte AI Platform Platform Demo" width="800"/>
