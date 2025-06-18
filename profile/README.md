@@ -170,7 +170,6 @@ Transform your customer-facing teams into productivity powerhouses with AI assis
 - **API Keys**: For Vector Database, Choice of LLM
 - **Python**: Version 3.12 or above
 - **NodeJS**: Version 20 or above
-- **Domain**: For web interfaces (optional)
 
 ### 1. **Docker Compose (Local Development)**
 
