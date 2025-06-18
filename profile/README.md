@@ -122,7 +122,7 @@ The Data Collection Module automatically connects, authenticates, and continuous
 ##  **Use Cases**
 
 <details>
-<summary><strong>🤖 AI Companions for Organizations</strong></summary>
+<summary><strong> AI Companions for Organizations</strong></summary>
 
 Transform your workforce productivity with intelligent AI assistants that know your business inside-out.
 
@@ -148,7 +148,7 @@ Enhance patient care with AI that understands medical protocols and patient need
 </details>
 
 <details>
-<summary><strong>🏢 Front Office Productivity</strong></summary>
+<summary><strong> Front Office Productivity</strong></summary>
 
 Transform your customer-facing teams into productivity powerhouses with AI assistance.
 
