@@ -1,8 +1,8 @@
-#  Cortex AI Platform
+#  Incubyte AI Platform
 
 <div align="center">
 
-![Cortex Logo](https://github.com/Incubyte-AI-Platform/.github/blob/main/images/logo.png)
+![Incubyte AI Platform Logo](https://github.com/Incubyte-AI-Platform/.github/blob/main/images/logo.png)
 
 **Automate Your RAG Development Lifecycle**
 
@@ -17,27 +17,27 @@
 
 ##  **Transform Your Organization's Knowledge Into Intelligent Conversations**
 
-Cortex is an enterprise-grade AI platform that **automates the entire RAG (Retrieval-Augmented Generation) development lifecycle**. Deploy custom AI solutions in hours, not months, with zero AI expertise required.
+Incubyte AI Platform is an enterprise-grade AI platform that **automates the entire RAG (Retrieval-Augmented Generation) development lifecycle**. Deploy custom AI solutions in hours, not months, with zero AI expertise required.
 
-> **🎪 The Magic**: Connect your data sources → Make them RAG-ready → Deploy intelligent chat, voice & search interfaces
+> ** The Magic**: Connect your data sources → Make them RAG-ready → Deploy intelligent chat, voice & search interfaces
 
 <div align="center">
-<img src="./assets/images/cortex-demo.gif" alt="Cortex Platform Demo" width="800"/>
+<img src="./assets/images/Incubyte AI Platform-demo.gif" alt="Incubyte AI Platform Platform Demo" width="800"/>
 </div>
 
 ---
 
-## 🏗️ **Platform Architecture**
+##  **Platform Architecture**
 
 <div align="center">
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Screenshot%202025-06-16%20at%204.14.48%20PM.png" alt="Cortex Architecture" width="900"/>
+<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Screenshot%202025-06-16%20at%204.14.48%20PM.png" alt="Incubyte AI Platform Architecture" width="900"/>
 </div>
 
 ---
 
-## 🔧 **Three Powerful Modules**
+##  **Three Powerful Modules**
 
-### 📡 **1. Data Collection Engine**
+###  **1. Data Collection Engine**
 *Connect everything, everywhere*
 
 The Data Collection Module automatically connects, authenticates, and continuously syncs data from your organization's diverse systems into a unified format that can be processed by AI.
@@ -62,12 +62,12 @@ The Data Collection Module automatically connects, authenticates, and continuous
     --no-cache \
     --platform linux/amd64 \
     --provenance=false \
-    --build-arg AZURE_PYPI_INDEX_URL=https://__token__:{Personal Access Token}@pkgs.dev.azure.com/IncubyteLLP/Cortex/_packaging/Cortex-Connector-Package/pypi/simple/ \
+    --build-arg AZURE_PYPI_INDEX_URL=https://__token__:{Personal Access Token}@pkgs.dev.azure.com/IncubyteLLP/Incubyte AI Platform/_packaging/Incubyte AI Platform-Connector-Package/pypi/simple/ \
     -t gmail-connector:v1.2 \
     -f Dockerfile.Lambda .
 
 
-### 🧠 **2. Data Embedding Module**
+###  **2. Data Embedding Module**
 *Make your data AI-ready automatically*
 
 <div align="center">
@@ -83,7 +83,7 @@ The Data Collection Module automatically connects, authenticates, and continuous
 - Build with a specific Dockerfile: 
  docker buildx build --platform linux/amd64 --provenance=false -t embedding-and-storage:v1 -f Dockerfile.Azure .
 
-### 🎯 **3. RAG API Engine**
+###  **3. RAG API Engine**
 *Retrieve the perfect answers, every time*
 
 <div align="center">
@@ -97,29 +97,29 @@ The Data Collection Module automatically connects, authenticates, and continuous
 - **Cloud Agnostic**: GCP, AWS, Azure or your own cloud
 
 
-## ✨ **Why Organizations Choose Cortex**
+##  **Why Organizations Choose Incubyte AI Platform**
 
-### 🏃‍♂️ **Speed to Market**
+###  **Speed to Market**
 - **Ready-made POCs**: Deploy in hours with pre-built templates
 
-### 💰 **Cost Efficiency** 
+###  **Cost Efficiency** 
 - **Zero AI Expertise Required**: Our AI handles the AI complexity
 - **Flexible Pricing**: Pay for what you use, scale as you grow
 - **ROI Guaranteed**: See measurable productivity gains in weeks
 
-### 🔓 **No Vendor Lock-In**
+###  **No Vendor Lock-In**
 - **Your Cloud**: Deploy on Azure, AWS, GCP, or on-premises
 - **Your LLMs**: Use any language model or mix multiple providers
 - **Your Data**: Full control, zero data sharing, complete compliance
 
-### 🛡️ **Enterprise-Ready**
+###  **Enterprise-Ready**
 - **Security First**: HIPAA compliant from day one
 - **Scalable Architecture**: Handle millions of queries per day
 - **24/7 Support**: Dedicated enterprise support team
 
 ---
 
-## 🎯 **Use Cases**
+##  **Use Cases**
 
 <details>
 <summary><strong>🤖 AI Companions for Organizations</strong></summary>
@@ -127,7 +127,7 @@ The Data Collection Module automatically connects, authenticates, and continuous
 Transform your workforce productivity with intelligent AI assistants that know your business inside-out.
 
 **Examples:**
-- **"Cortex Helper"**: Your organization's internal ChatGPT
+- **"Incubyte AI Platform Helper"**: Your organization's internal ChatGPT
 - **"Parent Companion"**: Instant answers to your child's school needs and preparation 
 - **"Onboarding Assistant"**: Guide new employees through your processes
 
@@ -182,13 +182,13 @@ Transform your customer-facing teams into productivity powerhouses with AI assis
 ### Using HTTPS
 
 ```
-git clone https://IncubyteLLP@dev.azure.com/IncubyteLLP/Cortex/_git/data-collection.git
+git clone https://IncubyteLLP@dev.azure.com/IncubyteLLP/Incubyte AI Platform/_git/data-collection.git
 ```
 
 ### Using SSH
 
 ```
-git clone git@ssh.dev.azure.com:v3/IncubyteLLP/Cortex/data-collection.git
+git clone git@ssh.dev.azure.com:v3/IncubyteLLP/Incubyte AI Platform/data-collection.git
 ```
 
 - [How to setup SSH key authentication](https://learn.microsoft.com/en-us/azure/devops/repos/git/use-ssh-keys-to-authenticate?view=azure-devops)
@@ -294,21 +294,21 @@ docker run --env-file .env data-collection-app
 ```bash
 ```
 
-## 📊 **Platform Components**
+##  **Platform Components**
 
 | Component | Repository | Documentation | Status |
 |-----------|------------|---------------|---------|
-| 🎨 **Frontend (React UI)** | [`cortex-frontend`](./packages/frontend) | [📖 Frontend Docs](./packages/frontend/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-frontend/actions) |
-| ⚡ **RAG API (NestJS)** | [`cortex-api`](./packages/api) | [📖 API Docs](./packages/api/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-api/actions) |
-| 🎤 **Voice Services** | [`cortex-voice`](./packages/voice) | [📖 Voice Docs](./packages/voice/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-voice/actions) |
-| 🔌 **Data Connectors** | [`cortex-connectors`](./packages/connectors) | [📖 Connectors Docs](./packages/connectors/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-connectors/actions) |
-| 🧠 **Embedding Engine** | [`cortex-embeddings`](./packages/embeddings) | [📖 Embeddings Docs](./packages/embeddings/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/cortex-embeddings/actions) |
-| 🏗️ **ChatPackage** | [`cortex-infrastructure`](./infrastructure) | [📖 DevOps Docs](./infrastructure/README.md) | [![Terraform](https://img.shields.io/badge/terraform-validated-purple.svg)](https://github.com/your-org/cortex-infrastructure) |
+|  **Frontend (React UI)** | [`Incubyte AI Platform-frontend`](./packages/frontend) | [📖 Frontend Docs](./packages/frontend/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-frontend/actions) |
+|  **RAG API (NestJS)** | [`Incubyte AI Platform-api`](./packages/api) | [📖 API Docs](./packages/api/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-api/actions) |
+|  **Voice Services** | [`Incubyte AI Platform-voice`](./packages/voice) | [📖 Voice Docs](./packages/voice/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-voice/actions) |
+|  **Data Connectors** | [`Incubyte AI Platform-connectors`](./packages/connectors) | [📖 Connectors Docs](./packages/connectors/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-connectors/actions) |
+|  **Embedding Engine** | [`Incubyte AI Platform-embeddings`](./packages/embeddings) | [📖 Embeddings Docs](./packages/embeddings/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-embeddings/actions) |
+|  **ChatPackage** | [`Incubyte AI Platform-infrastructure`](./infrastructure) | [📖 DevOps Docs](./infrastructure/README.md) | [![Terraform](https://img.shields.io/badge/terraform-validated-purple.svg)](https://github.com/your-org/Incubyte AI Platform-infrastructure) |
 
 ---
 
 
-## 📈 **Monitoring & Analytics**
+##  **Monitoring & Analytics**
 
 - **Real-time Metrics**: Query volume, response times, user satisfaction
 - **Usage Analytics**: Most searched topics, popular data sources, user patterns  
@@ -317,15 +317,15 @@ docker run --env-file .env data-collection-app
 
 ---
 
-### 🐛 **Issues & Feature Requests**
+###  **Issues & Feature Requests**
 
-- **🐛 [Report a Bug](https://github.com/your-org/cortex/issues/new?template=bug_report.md)**
-- **💡 [Request a Feature](https://github.com/your-org/cortex/issues/new?template=feature_request.md)**
-- **❓ [Ask a Question](https://github.com/your-org/cortex/discussions/new?category=q-a)**
+- ** [Report a Bug](https://github.com/your-org/Incubyte AI Platform/issues/new?template=bug_report.md)**
+- ** [Request a Feature](https://github.com/your-org/Incubyte AI Platform/issues/new?template=feature_request.md)**
+- ** [Ask a Question](https://github.com/your-org/Incubyte AI Platform/discussions/new?category=q-a)**
 
 ---
 
-## 🗺️ **Roadmap**
+##  **Roadmap**
 
 <details>
 <summary><strong>🎯 Q3 2025</strong></summary>
@@ -343,7 +343,7 @@ See the [LICENSE](https://github.com/Incubyte-AI-Platform/.github/blob/main/LICE
 
 ---
 
-Built with ❤️ by the Cortex team and our amazing community contributors.
+Built with ❤️ by the Incubyte team and our amazing community contributors.
 
 ---
 
@@ -351,7 +351,7 @@ Built with ❤️ by the Cortex team and our amazing community contributors.
 
 **Ready to transform your organization's knowledge into intelligent conversations?**
 
-[🚀 **Get Started Now**](https://cortex-ai.com/get-started) • [📅 **Book a Demo**](https://calendly.com/cortex-ai/demo) • [💬 **Contact Sales**](mailto:sales@cortex-ai.com)
+[🚀 **Get Started Now**](https://Incubyte AI Platform-ai.com/get-started) • [📅 **Book a Demo**](https://calendly.com/Incubyte AI Platform-ai/demo) • [💬 **Contact Sales**](mailto:sales@Incubyte AI Platform-ai.com)
 
 ---
 
