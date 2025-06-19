@@ -327,7 +327,7 @@ docker run --env-file .env data-collection-app
 ##  **Roadmap**
 
 <details>
-<summary><strong>🎯 Q3 2025</strong></summary>
+<summary><strong> Q3 2025</strong></summary>
 
 - **Multi-modal AI**: Image and video understanding
 - **AI Agents**:  Autonomous Task Completion
@@ -336,7 +336,7 @@ docker run --env-file .env data-collection-app
 
 ---
 
-## ⚖️ **License**
+##  **License**
 
 See the [LICENSE](https://github.com/Incubyte-AI-Platform/.github/blob/main/LICENSE.md)
 
