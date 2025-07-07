@@ -80,8 +80,6 @@ The Data Collection Module automatically connects, authenticates, and continuous
 - **Vector Generation**: State-of-the-art embedding models
 - **Metadata Enrichment**: Automatic tagging and categorization using metadata filtering
 
-- Build with a specific Dockerfile: 
- docker buildx build --platform linux/amd64 --provenance=false -t embedding-and-storage:v1 -f Dockerfile.Azure .
 
 ###  **3. RAG API Engine**
 *Retrieve the perfect answers, every time*
@@ -303,16 +301,6 @@ docker run --env-file .env data-collection-app
 |  **Data Connectors** | [`Incubyte AI Platform-connectors`](./packages/connectors) | [📖 Connectors Docs](./packages/connectors/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-connectors/actions) |
 |  **Embedding Engine** | [`Incubyte AI Platform-embeddings`](./packages/embeddings) | [📖 Embeddings Docs](./packages/embeddings/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-embeddings/actions) |
 |  **ChatPackage** | [`Incubyte AI Platform-infrastructure`](./infrastructure) | [📖 DevOps Docs](./infrastructure/README.md) | [![Terraform](https://img.shields.io/badge/terraform-validated-purple.svg)](https://github.com/your-org/Incubyte AI Platform-infrastructure) |
-
----
-
-
-##  **Monitoring & Analytics**
-
-- **Real-time Metrics**: Query volume, response times, user satisfaction
-- **Usage Analytics**: Most searched topics, popular data sources, user patterns  
-- **Performance Monitoring**: System health, resource utilization, error rates
-- **Business Intelligence**: ROI tracking, productivity metrics, cost analysis
 
 ---
 
