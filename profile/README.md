@@ -299,7 +299,7 @@ docker run --env-file .env data-collection-app
 |  **RAG API (NestJS)** | [`Incubyte AI Platform-api`](./packages/api) | [📖 API Docs](./packages/api/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-api/actions) |
 |  **Voice Services** | [`Incubyte AI Platform-voice`](./packages/voice) | [📖 Voice Docs](./packages/voice/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-voice/actions) |
 |  **Data Connectors** | [`Incubyte AI Platform-connectors`](./packages/connectors) | [📖 Connectors Docs](./packages/connectors/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-connectors/actions) |
-|  **Embedding Engine** | [`Incubyte AI Platform-embeddings`](./embedding-and-storage) | [📖 Embeddings Docs](./packages/embeddings/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-embeddings/actions) |
+|  **Embedding Engine** | [`Incubyte AI Platform-embeddings`](https://github.com/Incubyte-AI-Platform/embedding-and-storage) | [📖 Embeddings Docs](./packages/embeddings/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-embeddings/actions) |
 |  **ChatPackage** | [`Incubyte AI Platform-infrastructure`](./infrastructure) | [📖 DevOps Docs](./infrastructure/README.md) | [![Terraform](https://img.shields.io/badge/terraform-validated-purple.svg)](https://github.com/your-org/Incubyte AI Platform-infrastructure) |
 
 ---
