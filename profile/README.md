@@ -9,7 +9,7 @@
 *Connect. Embed. Retrieve. Deploy.*
 
 
-  [🚀 Get Started ](#-Platform Components) • [🎯 Use Cases](#-use-cases)
+  [🚀 Get Started ](https://github.com/Incubyte-AI-Platform#platform-components) • [🎯 Use Cases](https://github.com/Incubyte-AI-Platform#use-cases)
 
 </div>
 
