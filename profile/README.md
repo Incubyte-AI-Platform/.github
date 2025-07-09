@@ -22,7 +22,7 @@ Incubyte AI Platform is an enterprise-grade AI platform that **automates the ent
 Connect your data sources → Make them RAG-ready → Deploy intelligent chat, voice & search interfaces
 
 <div align="center">
-<img src="./assets/images/Incubyte AI Platform-demo.gif" alt="Incubyte AI Platform Platform Demo" width="800"/>
+<img src="./assets/images/Incubyte AI Platform-demo.gif" alt="Incubyte AI Platform Platform Demo" width="600"/>
 </div>
 
 ---
