@@ -22,16 +22,13 @@ Incubyte AI Platform is an enterprise-grade AI platform that **automates the ent
 Connect your data sources → Make them RAG-ready → Deploy intelligent chat, voice & search interfaces
 
 <div align="center">
-<img src="./assets/images/Incubyte AI Platform-demo.gif" alt="Incubyte AI Platform Platform Demo" width="600"/>
+<img src="./assets/images/Incubyte AI Platform-demo.gif" alt="Incubyte AI Platform Platform Demo" width="900"/>
 </div>
 
 ---
 
 ##  **Platform Architecture**
 
-<div align="center">
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Screenshot%202025-06-16%20at%204.14.48%20PM.png" alt="Incubyte AI Platform Architecture" width="900"/>
-</div>
 
 ---
 
@@ -42,9 +39,6 @@ Connect your data sources → Make them RAG-ready → Deploy intelligent chat, v
 
 The Data Collection Module automatically connects, authenticates, and continuously syncs data from your organization's diverse systems into a unified format that can be processed by AI.
 
-<div align="center">
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Collection.png" alt="Data Collection" width="800"/>
-</div>
 
 **Pre-built connectors for your entire tech stack:**
 - **Productivity**: Gmail, Google Drive, Slack
@@ -70,10 +64,6 @@ The Data Collection Module automatically connects, authenticates, and continuous
 ###  **2. Data Embedding Module**
 *Make your data AI-ready automatically*
 
-<div align="center">
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Data%20Embedding%20and%20Storage.png" alt="Data Embedding" width="800"/>
-</div>
-
 **Intelligent preprocessing and vectorization:**
 - **Smart Chunking**: Context-aware document segmentation
 - **Multi-format Support**: PDFs, Word docs, presentations, code, images
@@ -84,9 +74,6 @@ The Data Collection Module automatically connects, authenticates, and continuous
 ###  **3. RAG API Engine**
 *Retrieve the perfect answers, every time*
 
-<div align="center">
-<img src="https://github.com/Incubyte-AI-Platform/.github/blob/main/images/RAG%20API.png" alt="RAG API" width="800"/>
-</div>
 
 **Advanced retrieval with enterprise features:**
 - **Hybrid Search**: Combines semantic and keyword search
@@ -111,7 +98,7 @@ The Data Collection Module automatically connects, authenticates, and continuous
 - **Your Data**: Full control, zero data sharing, complete compliance
 
 ###  **Enterprise-Ready**
-- **Security First**: HIPAA compliant from day one
+- **Security First**: Compliance from day one
 - **Scalable Architecture**: Handle millions of queries per day
 - **24/7 Support**: Dedicated enterprise support team
 
@@ -296,7 +283,7 @@ docker run --env-file .env data-collection-app
 | Component | Repository | Documentation | Status |
 |-----------|------------|---------------|---------|
 |  **Frontend (React UI)** | [`Incubyte AI Platform-frontend`](./packages/frontend) | [📖 Frontend Docs](./packages/frontend/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-frontend/actions) |
-|  **RAG API (NestJS)** | [`Incubyte AI Platform-api`](./packages/api) | [📖 API Docs](./packages/api/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-api/actions) |
+|  **RAG API Engine** | [`Incubyte AI Platform-api`](./packages/api) | [📖 API Docs](./packages/api/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-api/actions) |
 |  **Voice Services** | [`Incubyte AI Platform-voice`](./packages/voice) | [📖 Voice Docs](./packages/voice/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-voice/actions) |
 |  **Data Connectors** | [`Incubyte AI Platform-connectors`](./packages/connectors) | [📖 Connectors Docs](./packages/connectors/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-connectors/actions) |
 |  **Embedding Engine** | [`Incubyte AI Platform-embeddings`](https://github.com/Incubyte-AI-Platform/embedding-and-storage) | [📖 Embeddings Docs](./packages/embeddings/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/your-org/Incubyte AI Platform-embeddings/actions) |
@@ -306,9 +293,9 @@ docker run --env-file .env data-collection-app
 
 ###  **Issues & Feature Requests**
 
+- ** [Raise a PR](https://github.com/your-org/Incubyte AI Platform/issues/new?template=bug_report.md)**
 - ** [Report a Bug](https://github.com/your-org/Incubyte AI Platform/issues/new?template=bug_report.md)**
-- ** [Request a Feature](https://github.com/your-org/Incubyte AI Platform/issues/new?template=feature_request.md)**
-- ** [Ask a Question](https://github.com/your-org/Incubyte AI Platform/discussions/new?category=q-a)**
+  
 
 ---
 
@@ -338,7 +325,7 @@ Built with ❤️ by the Incubyte team and our amazing community contributors.
 
 **Ready to transform your organization's knowledge into intelligent conversations?**
 
-[🚀 **Get Started Now**](https://Incubyte AI Platform-ai.com/get-started) • [📅 **Book a Demo**](https://calendly.com/Incubyte AI Platform-ai/demo) • [💬 **Contact Sales**](mailto:sales@Incubyte AI Platform-ai.com)
+[🚀 **Get Started Now**](https://cortex.incubyte.co/) • [📅 **Book a Demo**](https://www.incubyte.co/contact-us) • [💬 **Contact Sales**](https://www.incubyte.co/contact-us)
 
 ---
 
