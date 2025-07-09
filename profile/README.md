@@ -9,7 +9,7 @@
 *Connect. Embed. Retrieve. Deploy.*
 
 
-[🚀 Quick Start](#-quick-start) • [🎯 Use Cases](#-use-cases)
+  [🚀 Get Started ](#-Platform Components) • [🎯 Use Cases](#-use-cases)
 
 </div>
 
