@@ -31,7 +31,7 @@ Connect your data sources → Make them RAG-ready → Deploy intelligent chat, v
 
 The platform automates the RAG lifecycle with three layers: Data Collection connects and syncs sources like Gmail and Slack; Embedding & Storage transforms content into AI-ready vectors; and Retrieval delivers precise, context-aware answers using hybrid search and LLMs.
 
- - [Dive into the platform architecture](https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Cortex%20Architecture.pdf)
+[`Dive into the platform architecture`](https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Cortex%20Architecture.pdf)
 ---
 
 ##  **Three Powerful Modules**
