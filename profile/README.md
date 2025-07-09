@@ -174,11 +174,10 @@ git clone git@ssh.dev.azure.com:v3/IncubyteLLP/Incubyte AI Platform/repo-name.gi
 
 ---
 
-###  **Issues & Feature Requests**
+###  **Issues & Feature**
 
-- ** [`Report a Bug`](https://github.com/your-org/Incubyte AI Platform/issues/new?template=bug_report.md)**
-- ** [`Raise a PR`](https://github.com/Incubyte-AI-Platform/website-connector)**
-  
+-  [`Raise a PR`](https://github.com/Incubyte-AI-Platform/website-connector)
+-  [`Request a Bug`](https://github.com/Incubyte-AI-Platform/website-connector)
 
 ---
 
