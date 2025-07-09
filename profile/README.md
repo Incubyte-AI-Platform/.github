@@ -31,7 +31,7 @@ Connect your data sources → Make them RAG-ready → Deploy intelligent chat, v
 
 The platform automates the RAG lifecycle with three layers: Data Collection connects and syncs sources like Gmail and Slack; Embedding & Storage transforms content into AI-ready vectors; and Retrieval delivers precise, context-aware answers using hybrid search and LLMs.
 
- [Dive into the platform architecture](https://github.com/Incubyte-AI-Platform/.github/blob/main/LICENSE.md)
+ - [Dive into the platform architecture](https://github.com/Incubyte-AI-Platform/.github/blob/main/images/Cortex%20Architecture.pdf)
 ---
 
 ##  **Three Powerful Modules**
@@ -142,8 +142,6 @@ Transform your customer-facing teams into productivity powerhouses with AI assis
 - **Python**: Version 3.12 or above
 - **NodeJS**: Version 20 or above
 
-### 1. **Run Local Development **
-
 ## Clone the repository
 
 - To begin with the local setup, start cloning the repository using the `git clone <repository_link>` command.
@@ -168,10 +166,11 @@ git clone git@ssh.dev.azure.com:v3/IncubyteLLP/Incubyte AI Platform/repo-name.gi
 
 | Component | Repository | Documentation | Status |
 |-----------|------------|---------------|---------|
-|  **RAG API Engine)** | [`Incubyte AI Platform-frontend`](https://github.com/Incubyte-AI-Platform/rag-package) | [📖 RAG API Docs] (https://github.com/Incubyte-AI-Platform/rag-package/blob/main/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/Incubyte-AI-Platform/rag-package/actions) |
+|  **RAG API Engine)** | [`Incubyte AI Platform-RAG Engine`](https://github.com/Incubyte-AI-Platform/rag-package) | [📖 RAG API Docs] (https://github.com/Incubyte-AI-Platform/rag-package/blob/main/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/Incubyte-AI-Platform/rag-package/actions) |
 |  **Embedding Engine** | [`Incubyte AI Platform-embeddings`](https://github.com/Incubyte-AI-Platform/embedding-and-storage) | [📖 Embeddings Docs](https://github.com/Incubyte-AI-Platform/embedding-and-storage/blob/main/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/Incubyte-AI-Platform/embedding-and-storage/actions) |
+|  **Connector Package** | [`Incubyte AI Platform-Connector Package`](https://github.com/Incubyte-AI-Platform/connector-packages) | [📖 Connector Docs](https://github.com/Incubyte-AI-Platform/embedding-and-storage/blob/main/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/Incubyte-AI-Platform/embedding-and-storage/actions) |
 |  **Gmail Connector** | [`Incubyte AI Platform-gmail connector`](https://github.com/Incubyte-AI-Platform/gmail-connector) | [📖 Gmail Connector Docs](https://github.com/Incubyte-AI-Platform/gmail-connector/blob/main/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)] (https://github.com/Incubyte-AI-Platform/gmail-connector/actions/new) |
-|  **Website Connector** | [`Incubyte AI Platform-website connector`](https://github.com/Incubyte-AI-Platform/website-connector) | [📖 Website Connector Docs](https://github.com/Incubyte-AI-Platform/website-connector/blob/main/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)] (https://github.com/Incubyte-AI-Platform/website-connector/actions) |
+|  **Website Connector** | [`Incubyte AI Platform-website connector`](https://github.com/Incubyte-AI-Platform/website-connector) | [📖 Website Connector Docs](https://github.com/Incubyte-AI-Platform/connector-packages/blob/main/README.md) | [![Build Status](https://img.shields.io/badge/build-passing-green.svg)] (https://github.com/Incubyte-AI-Platform/connector-packages/actions/new) |
 
 ---
 
