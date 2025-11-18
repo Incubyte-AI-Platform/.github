@@ -1,4 +1,4 @@
-# Cortex Platform License
+# IAP Platform License
 
 **Copyright (c) 2025 Incubyte LLP. All rights reserved.**
 
