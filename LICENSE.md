@@ -25,7 +25,7 @@ This includes, but is not limited to:
 
 ## Obtaining a License
 
-To obtain a license for the Cortex Platform, please contact Incubyte LLP:
+To obtain a license for the IAP Platform, please contact Incubyte LLP:
 
 ### Contact Information
 
